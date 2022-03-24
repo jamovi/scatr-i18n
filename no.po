@@ -1,20 +1,28 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2022-03-24 19:36+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
+"scatr-i18n/nb_NO/>\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
+"`none` (standard), `dens` eller `box`, gi ut enten ingen plott, density-"
+"diagramm eller boksplott på aksene"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
+"`none` (Vorgabe), `linear` oder `smooth`, gi ut enten ingen regresjonslinje, "
+"en lineær regresjonslinje eller en utjevnet regresjonslinje"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
@@ -66,12 +74,12 @@ msgstr ""
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "Antall"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "Antall (valgfritt)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
@@ -86,7 +94,7 @@ msgstr ""
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Eksplorativ dataanalyse"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
@@ -101,7 +109,7 @@ msgstr ""
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Group"
-msgstr ""
+msgstr "Gruppe"
 
 #: scat/options/line/linear.title
 msgid "Linear"
@@ -115,7 +123,7 @@ msgstr ""
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -171,7 +179,7 @@ msgstr ""
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr ""
+msgstr "Standardfeil"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
