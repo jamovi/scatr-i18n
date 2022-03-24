@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2022-03-24 19:36+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/nb_NO/>\n"
 "Language: no\n"
@@ -191,9 +191,9 @@ msgstr ""
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "X-akse"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y-akse"
