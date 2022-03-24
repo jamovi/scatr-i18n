@@ -1,121 +1,128 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2022-03-24 19:36+0000\n"
+"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"jamovi/scatr-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
-msgstr ""
+msgstr "`none`（默认）、`dens`或`box`，分别在坐标轴上：不绘图、绘制密度图或绘制箱形图"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
-msgstr ""
+msgstr "`none`（默认）、`linear` 或 "
+"`smooth`，分别对应：不提供回归线、线性回归线或平滑回归线"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
-msgstr ""
+msgstr "`TRUE` 或 `FALSE`（默认），显示回归线的标准误差"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
-msgstr ""
+msgstr "一个从 0 到 45 的数字，定义 x 轴标签的旋转角度，其中 0 "
+"度表示完全平铺显示标签。"
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "帕累托图"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "散点图"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
-msgstr ""
+msgstr "一个从 `data` 命名变量的字符串，其中包含值的计数（可选）"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
-msgstr ""
+msgstr "一个从 `data` 命名变量的字符串，其中包含用于图表的值"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
-msgstr ""
+msgstr "一个从 `data` 命名变量的字符串，其中包含绘图中点的 x 坐标，变量必须是数值"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
-msgstr ""
+msgstr "一个从 `data` 命名变量的字符串，其中包含图中点的 y 坐标，变量必须是数值"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
-msgstr ""
+msgstr "一个从 `data` 命名变量的字符串，表示分组变量"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
-msgstr ""
+msgstr "允许您生成多种类型的探索性绘图，例如散点图和帕累托图。您可以在“探索”分析菜单"
+"下找到它。"
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr ""
+msgstr "x 轴标签的角度"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr ""
+msgstr "箱线图"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "计数"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "计数（可选）"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "累计百分比"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
-msgstr ""
+msgstr "密度"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "探索"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
-msgstr ""
+msgstr "提供绘制整洁、美观的散点图的函数，可选择添加边际密度或箱线图。"
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "绘制帕累托图的函数。"
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Group"
-msgstr ""
+msgstr "分组"
 
 #: scat/options/line/linear.title
 msgid "Linear"
-msgstr ""
+msgstr "线性"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
 msgid "Marginals"
-msgstr ""
+msgstr "边际"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -123,12 +130,12 @@ msgstr ""
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr ""
+msgstr "帕累托图"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr ""
+msgstr "回归线"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -136,7 +143,7 @@ msgstr ""
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "散点"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -144,7 +151,7 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatterplot"
-msgstr ""
+msgstr "散点图"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -155,6 +162,13 @@ msgid "set.seed(1337)\n"
 "\n"
 "scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- rnorm(100)\n"
+"Y <- 0.5*X + rnorm(100)\n"
+"dat <- data.frame(X = X, Y = Y)\n"
+"\n"
+"scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 
 #: pareto/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -164,28 +178,34 @@ msgid "set.seed(1337)\n"
 "\n"
 "pareto(dat, x = 'X')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- sample(c('A','B','C','D','E','F'), 100, replace=TRUE)\n"
+"dat <- data.frame(X = X)\n"
+"\n"
+"pareto(dat, x = 'X')"
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr ""
+msgstr "平滑"
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr ""
+msgstr "标准误差"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
 msgid "the data as a data frame"
-msgstr ""
+msgstr "将数据作为一个数据框"
 
 #: pareto/options/x.title
 #: pareto/ui[0][0].label
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "X 轴"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y 轴"
