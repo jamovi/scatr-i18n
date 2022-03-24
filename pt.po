@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2022-03-24 19:36+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
+"scatr-i18n/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -66,12 +70,12 @@ msgstr ""
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "Contagens"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "Contagens (opcional)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
@@ -86,7 +90,7 @@ msgstr ""
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Exploração"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
@@ -101,7 +105,7 @@ msgstr ""
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 #: scat/options/line/linear.title
 msgid "Linear"
@@ -115,7 +119,7 @@ msgstr ""
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr ""
+msgstr "Sem Correção"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -171,21 +175,21 @@ msgstr ""
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr ""
+msgstr "Erro-padrão"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
 msgid "the data as a data frame"
-msgstr ""
+msgstr "os dados como um quadro de dados"
 
 #: pareto/options/x.title
 #: pareto/ui[0][0].label
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "Eixo-XX"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Eixo-YY"
