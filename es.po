@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2022-03-25 18:33+0000\n"
+"Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
+"scatr-i18n/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -75,7 +79,7 @@ msgstr "Frecuencias (opcional)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "Porcentaje Acumulado"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
@@ -92,11 +96,13 @@ msgstr "Exploración"
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
+"Función para generar gráficos de dispersión simples y atractivos, con opción "
+"de representar en sus márgenes densidades o cajas."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "Función para generar gráficos de Pareto."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
@@ -194,9 +200,9 @@ msgstr "los datos como una 'data frame'"
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr "Eje-X"
+msgstr "Eje X"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr "Eje-Y"
+msgstr "Eje Y"
