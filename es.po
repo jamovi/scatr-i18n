@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-25 18:33+0000\n"
+"PO-Revision-Date: 2022-03-26 09:43+0000\n"
 "Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/es/>\n"
@@ -18,15 +18,22 @@ msgstr "`none` (predeterminado), `dens` o `box`, proporcionan, respectivamente, 
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
-msgstr "`none` (predeterminado), `linear` o `smooth`, proporcionan, respectivamente, ninguna línea de regresión, una línea de regresión lineal o una línea de regresión suavizada"
+msgstr ""
+"`none` (predeterminado), `linear` o `smooth`, proporcionan, respectivamente, "
+"ninguna línea de regresión, una línea de regresió lineal o una línea de "
+"regresió suavizada"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
-msgstr "`TRUE` o `FALSE` (predeterminado), muestra el error estándar para la línea de regresión"
+msgstr ""
+"`TRUE` o `FALSE` (predeterminado), muestra el error estándar para la línea "
+"de regresión"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
-msgstr "un número de 0 a 45 que define el ángulo de las etiquetas del eje x, donde 0 grados representa etiquetas completamente horizontales."
+msgstr ""
+"un número entre 0 y 45 que define el ángula de las etiquetas del eje X,  "
+"donde 0 grados representa etiquetas completamente horizontales."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
@@ -38,31 +45,43 @@ msgstr "un diagrama de dispersión"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
-msgstr "una cadena que nombra la variable de `data` que contiene los recuentos de los valores (opcional)"
+msgstr ""
+"una cadena que nombra la variable de `data` que contiene  los recuentos de "
+"los valores (opcional)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
-msgstr "una cadena que nombra la variable de `data` que contiene los valores utilizados para el gráfico"
+msgstr ""
+"una cadena que nombra la variable de `data` que contiene  los valores "
+"utilizados para el gráfico"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
-msgstr "una cadena que nombra la variable de `data` que contiene las coordenadas x de los puntos en el gráfico, la variable debe ser numérica"
+msgstr ""
+"una cadena que nombra la variable de `data` que contiene  las coordenadas X "
+"de los puntos en el gráfico, la variable debe ser numérica"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
-msgstr "una cadena que nombra la variable de `data` que contiene las coordenadas y de los puntos en el gráfico, la variable debe ser numérica"
+msgstr ""
+"una cadena que nombra la variable de `data` que contiene  las coordenadas Y "
+"de los puntos en el gráfico, la variable debe ser numérica"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
-msgstr "una cadena que nombra la variable de `data` que representa la variable de agrupación"
+msgstr ""
+"una cadena que nombra la variable de `data` que representa la variable de "
+"agrupación"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
-msgstr "Permite producir varios tipos de diagramas exploratorios, como diagramas de dispersión y diagramas de Pareto. Puede encontrarlo en el menú 'Exploración'."
+msgstr ""
+"Permite producir diversos tipos de gráficos exploratorios, como diagramas de "
+"dispersión y diagramas de Pareto. Puede encntrarse en el menú 'Exploración'."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr "Ángulo de las etiquetas del eje x"
+msgstr "Ángulo de las etiquetas del eje X"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
