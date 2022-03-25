@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-24 19:36+0000\n"
+"PO-Revision-Date: 2022-03-26 09:43+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jamovi/scatr-i18n/zh_Hans/>\n"
@@ -117,7 +117,7 @@ msgstr "线性"
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
 msgid "Marginals"
-msgstr "边际"
+msgstr "在绘图边缘显示"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
@@ -135,7 +135,7 @@ msgstr "帕累托图"
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr "回归线"
+msgstr "添加回归线"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
