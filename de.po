@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-24 09:08+0000\n"
+"PO-Revision-Date: 2022-03-25 14:21+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "de/>\n"
@@ -80,7 +80,7 @@ msgid "Allows you to produce several types of explorative plots such as scatter 
 msgstr ""
 "Ermöglicht die Erstellung verschiedener Arten von Diagrammen zur "
 "explorativen Datenanalyse, z. B. Streudiagramme und Paretodiagramme. Sie "
-"finden es im Menü „Explorative Datenanalyse“."
+"finden es im Menü „Exploration“."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
@@ -112,7 +112,7 @@ msgstr "Dichte"
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "Explorative Datenanalyse"
+msgstr "Exploration"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
