@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-24 19:36+0000\n"
+"PO-Revision-Date: 2022-03-25 14:21+0000\n"
 "Last-Translator: R <romaric.hainez@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "fr/>\n"
@@ -101,7 +101,7 @@ msgstr "Quantités (optionnel)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr "Pourcentage cumulé"
+msgstr "Pourcentages cumulés"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
@@ -139,7 +139,7 @@ msgstr "Linéaire"
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
 msgid "Marginals"
-msgstr "Marginaux"
+msgstr "Marges"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
@@ -157,7 +157,7 @@ msgstr "Diagramme de Pareto"
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr "Droite de régression"
+msgstr "Courbe de régression"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -210,7 +210,7 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr "Lisse"
+msgstr "Lissée"
 
 #: scat/options/se.title
 msgid "Standard error"
