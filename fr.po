@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-25 14:21+0000\n"
+"PO-Revision-Date: 2022-03-26 09:43+0000\n"
 "Last-Translator: R <romaric.hainez@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "fr/>\n"
@@ -144,7 +144,7 @@ msgstr "Marges"
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr "Aucun"
+msgstr "Aucune"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -214,7 +214,7 @@ msgstr "Lissée"
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr "Erreur standard"
+msgstr "Erreur type (erreur standard)"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
