@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-26 17:59+0000\n"
+"PO-Revision-Date: 2022-04-01 18:09+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/it/>\n"
@@ -88,7 +88,7 @@ msgstr "Angolo per le etichette dell'asse x"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr "Boxplots"
+msgstr "Boxplot"
 
 #: R/pareto.b.R
 msgid "Counts"
@@ -143,7 +143,7 @@ msgstr "Marginali"
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr "Nessuno"
+msgstr "Nessuna"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -208,7 +208,7 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr "Smussato"
+msgstr "Smussata"
 
 #: scat/options/se.title
 msgid "Standard error"
