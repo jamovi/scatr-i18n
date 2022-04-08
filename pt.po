@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-24 19:36+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2022-04-09 14:09+0000\n"
+"Last-Translator: jpmaroco <jpmaroco@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/pt/>\n"
 "Language: pt\n"
@@ -15,58 +15,77 @@ msgstr ""
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
+"`none` (padrão), `dens` ou `box`, respectivamente, não fornece gráficos, "
+"mostra gráficos de densidade ou diagrama de extremos e quartis nos eixos"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
+"`none` (padrão), `linear` ou `smooth`, não fornecem respetivamente nenhuma "
+"reta de regressão, uma reta de regressão linear ou uma reta de regressão "
+"suavizada"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
-msgstr ""
+msgstr "`TRUE` ou `FALSE` (padrão), mostra o erro padrão da reta de regressão"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
+"um número de 0 a 45 definindo o ângulo das categorias do eixo x, onde 0 "
+"graus representa categorias completamente horizontais."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "um gráfico de Pareto"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "um gráfico de dispersão"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
 msgstr ""
+"uma cadeia alfanumérica nomeando a variável de `data` que contém as "
+"contagens para os valores (opcional)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
 msgstr ""
+"uma cadeia alfanumérica nomeando a variável de `data` que contém os valores "
+"usados no gráfico"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"uma cadeia alfanumérica nomeando a variável de `data` que contém as "
+"coordenadas xx dos pontos no gráfico, a variável deve ser numérica"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"uma cadeia alfanumérica nomeando a variável de `data` que contém as "
+"coordenadas yy dos pontos no gráfico, a variável deve ser numérica"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
 msgstr ""
+"uma cadeia alfanumérica nomeando a variável de `data` que representa a "
+"variável de agrupamento"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
+"Permite produzir vários tipos de gráficos exploratórios, como gráficos de "
+"dispersão e gráficos de Pareto. Disponível no menu 'Exploração'."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr ""
+msgstr "Ângulo das etiquetas do eixo xx"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr ""
+msgstr "Diagrama de Extremos e Quartis"
 
 #: R/pareto.b.R
 msgid "Counts"
@@ -79,11 +98,11 @@ msgstr "Contagens (opcional)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "Percentagem acumulada"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
-msgstr ""
+msgstr "Densidades"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
@@ -96,11 +115,13 @@ msgstr "Exploração"
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
+"Função para fazer gráficos de dispersão simples e com boa aparência com a "
+"opção de adicionar densidade marginal ou diagrama de extremos e quartis."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "Função para fazer gráficos de Pareto."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
@@ -109,12 +130,12 @@ msgstr "Grupo"
 
 #: scat/options/line/linear.title
 msgid "Linear"
-msgstr ""
+msgstr "Linear"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
 msgid "Marginals"
-msgstr ""
+msgstr "Marginais"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
@@ -127,12 +148,12 @@ msgstr "Sem Correção"
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr ""
+msgstr "Gráfico de Pareto"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr ""
+msgstr "Reta de Regressão"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -140,7 +161,7 @@ msgstr ""
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "Dispersão"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -148,7 +169,7 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatterplot"
-msgstr ""
+msgstr "Gráfico de Dispersão"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -159,6 +180,13 @@ msgid "set.seed(1337)\n"
 "\n"
 "scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- rnorm(100)\n"
+"Y <- 0.5*X + rnorm(100)\n"
+"dat <- data.frame(X = X, Y = Y)\n"
+"\n"
+"scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 
 #: pareto/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -168,10 +196,16 @@ msgid "set.seed(1337)\n"
 "\n"
 "pareto(dat, x = 'X')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- sample(c('A','B','C','D','E','F'), 100, replace=TRUE)\n"
+"dat <- data.frame(X = X)\n"
+"\n"
+"pareto(dat, x = 'X')"
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr ""
+msgstr "Alisar"
 
 #: scat/options/se.title
 msgid "Standard error"
