@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-04-07 09:06+0000\n"
-"Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
+"PO-Revision-Date: 2022-04-12 11:12+0000\n"
+"Last-Translator: Nensi Ćaćić <nensi.cacic2@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/hr/>\n"
 "Language: hr\n"
@@ -120,7 +120,7 @@ msgstr ""
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr ""
+msgstr "Nijedan"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
