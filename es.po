@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-26 09:43+0000\n"
+"PO-Revision-Date: 2022-04-15 08:11+0000\n"
 "Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/es/>\n"
@@ -32,7 +32,7 @@ msgstr ""
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
-"un número entre 0 y 45 que define el ángula de las etiquetas del eje X,  "
+"un número entre 0 y 45 que define el ángulo de las etiquetas del eje X,  "
 "donde 0 grados representa etiquetas completamente horizontales."
 
 #: pareto/results/pareto.description
@@ -77,7 +77,7 @@ msgstr ""
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
 "Permite producir diversos tipos de gráficos exploratorios, como diagramas de "
-"dispersión y diagramas de Pareto. Puede encntrarse en el menú 'Exploración'."
+"dispersión y diagramas de Pareto. Puede encontrarse en el menú 'Exploración'."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
