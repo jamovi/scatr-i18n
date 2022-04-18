@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-26 04:36+0000\n"
+"PO-Revision-Date: 2022-04-19 09:09+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/ru/>\n"
@@ -113,7 +113,7 @@ msgstr "Плотности распределения"
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "Исследование"
+msgstr "Разведочный"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
