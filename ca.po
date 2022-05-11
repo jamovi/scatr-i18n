@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-04-22 23:24+0000\n"
+"PO-Revision-Date: 2022-05-11 17:57+0000\n"
 "Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/ca/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.1-dev\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -87,7 +87,7 @@ msgstr "Angle de les etiquetes de l'eix X"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr "gràfics de caixa"
+msgstr "Gràfics de caixa"
 
 #: R/pareto.b.R
 msgid "Counts"
@@ -150,7 +150,7 @@ msgstr "Cap"
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr "gràfic de Pareto"
+msgstr "Gràfic de Pareto"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
