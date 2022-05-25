@@ -1,13 +1,17 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2022-05-26 14:20+0000\n"
+"Last-Translator: Matej U <mateju@src.gnome.org>\n"
+"Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
+"scatr-i18n/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -20,103 +24,120 @@ msgstr ""
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
 msgstr ""
+"`TRUE` oziroma `FALSE` (privzeto), pokaže standardno napako za regresijsko "
+"črto"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
+"število od 0 do 45, ki določa kot oznak osi x, pri čemer pomeni 0 stopinj "
+"vodoraven izpis."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "diagram Pareto"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "razsevni diagram"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
 msgstr ""
+"niz za poimenovanje spremenljivke iz `data`, ki vsebuje število vrednosti "
+"(izbirno)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
 msgstr ""
+"niz za poimenovanje spremenljivke iz `data`, ki vsebuje vrednosti za izris "
+"diagrama"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"niz za poimenovanje spremenljivke iz `data`, ki vsebuje koordinate x točk "
+"izrisa; vrednost mora biti številska"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"niz za poimenovanje spremenljivke iz `data`, ki vsebuje koordinate y točk "
+"izrisa; vrednost mora biti številska"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
 msgstr ""
+"niz za poimenovanje spremenljivke iz `data`, ki vsebuje skupinske vrednosti"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
+"Omogoča pripravo več vrst diagramov, kot so razpršeni diagrami in diagrami "
+"Pareto. Možnost je na voljo v meniju Raziskovanje."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr ""
+msgstr "Kot oznak na osi X."
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr ""
+msgstr "Vretenasti diagrami"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "Števci"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "Števci (izbirno)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "Zbirni odstotek"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
-msgstr ""
+msgstr "Gostote"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Raziskovanje"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
+"Funkcija za izdelavo preglednih in oblikovno dovršenih razsevnih diagramov z "
+"možnostjo dodajanja robnih gostot ali vretenastih diagramov."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "Funkcija za pripravo diagramih Pareto."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Group"
-msgstr ""
+msgstr "Skupina"
 
 #: scat/options/line/linear.title
 msgid "Linear"
-msgstr ""
+msgstr "Linearno"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
 msgid "Marginals"
-msgstr ""
+msgstr "Robne vrednosti"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr ""
+msgstr "Brez"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -124,12 +145,12 @@ msgstr ""
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr ""
+msgstr "Diagram Pareto"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr ""
+msgstr "Regresijska črta"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -137,7 +158,7 @@ msgstr ""
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "‧scatr‧"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -145,7 +166,7 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatterplot"
-msgstr ""
+msgstr "Razsevni diagram"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -156,6 +177,13 @@ msgid "set.seed(1337)\n"
 "\n"
 "scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- rnorm(100)\n"
+"Y <- 0.5*X + rnorm(100)\n"
+"dat <- data.frame(X = X, Y = Y)\n"
+"\n"
+"scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 
 #: pareto/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -165,14 +193,20 @@ msgid "set.seed(1337)\n"
 "\n"
 "pareto(dat, x = 'X')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- sample(c('A','B','C','D','E','F'), 100, replace=TRUE)\n"
+"dat <- data.frame(X = X)\n"
+"\n"
+"pareto(dat, x = 'X')"
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr ""
+msgstr "Glajeno"
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr ""
+msgstr "Standardna napaka"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
@@ -184,9 +218,9 @@ msgstr ""
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "X-os"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y-os"
