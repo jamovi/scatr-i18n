@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-05-03 15:14+0000\n"
-"Last-Translator: Serdar Balcı <drserdarbalci@gmail.com>\n"
+"PO-Revision-Date: 2022-05-31 12:19+0000\n"
+"Last-Translator: Sami Çoksan <sami.coksan@erzurum.edu.tr>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/tr/>\n"
 "Language: tr\n"
@@ -10,11 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
+"'hiçbiri' (varsayılan), 'dens' veya 'kutu', eksenlerde sırasıyla hiçbir "
+"dağılım, yoğunluk grafiği veya kutu grafiği sağlamaz"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
@@ -23,22 +25,28 @@ msgstr ""
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
 msgstr ""
+"`DOĞRU` veya `YANLIŞ` (varsayılan), regresyon çizgisi için standart hatayı "
+"gösterir"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
+"0 derecenin tamamen yatay eksenleri temsil ettiği yerde X ekseni "
+"etiketlerini tanımlayan 0'dan 45'e kadar bir sayı."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "bir Pareto grafiği"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "bir dağılım grafiği"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
 msgstr ""
+"değerler için sayıları içeren \"veri\"den değişkeni adlandıran bir dize ("
+"isteğe bağlı)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
@@ -59,24 +67,25 @@ msgstr ""
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
+"Dağılım grafikleri ve Pareto grafikleri gibi çeşitli keşfedici grafikleri "
+"üretmenizi sağlar. Bunu 'Keşfet' menüsünün altında bulabilirsiniz."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr ""
+msgstr "X ekseni etiketlerinin açısı"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr ""
+msgstr "Kutu grafikleri"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "Sayı"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
-#, fuzzy
 msgid "Counts (optional)"
-msgstr "Sayılar (isteğe bağlı)"
+msgstr "Sayı (isteğe bağlı)"
 
 #: R/pareto.b.R
 #, fuzzy
@@ -91,9 +100,8 @@ msgstr "Yoğunluklar"
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
-#, fuzzy
 msgid "Exploration"
-msgstr "Keşif"
+msgstr "Keşfet"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
@@ -124,7 +132,6 @@ msgstr "Marjinaller"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
-#, fuzzy
 msgid "None"
 msgstr "Hiçbiri"
 
@@ -133,13 +140,11 @@ msgstr "Hiçbiri"
 #: pareto/options.title
 #: pareto/ui.title
 #: pareto/results.title
-#, fuzzy
 msgid "Pareto Chart"
 msgstr "Pareto Grafiği"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
-#, fuzzy
 msgid "Regression Line"
 msgstr "Regresyon Çizgisi"
 
@@ -148,7 +153,6 @@ msgstr "Regresyon Çizgisi"
 #: package/analyses/pareto.menuSubgroup
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
-#, fuzzy
 msgid "scatr"
 msgstr "dağılım"
 
@@ -158,7 +162,7 @@ msgstr "dağılım"
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatterplot"
-msgstr "Dağılım grafiği"
+msgstr "Dağılım Grafiği"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -180,7 +184,6 @@ msgid "set.seed(1337)\n"
 msgstr ""
 
 #: scat/options/line/smooth.title
-#, fuzzy
 msgid "Smooth"
 msgstr "Düz"
 
@@ -204,6 +207,5 @@ msgstr "X-ekseni"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
-#, fuzzy
 msgid "Y-Axis"
 msgstr "Y ekseni"
