@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-07-02 20:15+0000\n"
+"PO-Revision-Date: 2022-07-14 15:14+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "pl/>\n"
@@ -11,18 +11,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
-"`none` (domyślnie), `dens` lub `box` nie zapewniają odpowiednio żadnych "
-"wykresów, wykresów gęstości lub wykresów pudełkowych na osiach"
+"`none` (domyślnie), `dens` lub `box` zapewniają odpowiednio: brak wykresów, "
+"wykresy gęstości lub wykresy pudełkowe na osiach"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
-"`none` (domyślne), `linear`, lub `smooth` zapewniają odpowiednio brak linii "
+"`none` (domyślne), `linear`, lub `smooth` zapewniają odpowiednio: brak linii "
 "regresji, linię regresji liniowej lub wygładzoną linię regresji"
 
 #: scat/options/se.description.R
@@ -32,12 +32,12 @@ msgstr "`TRUE` lub `FALSE` (domyślnie), pokaż błąd standardowy linii regresj
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
-"liczba od 0 do 45 definiująca kąt etykiet na osi x, gdzie 0 oznacza "
-"całkowicie poziome etykiety."
+"liczba od 0 do 45 definiująca kąt etykiet na osi X, gdzie 0 oznacza poziome "
+"etykiety."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr "Diagram Pareta"
+msgstr "Wykres Pareto"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
@@ -74,7 +74,7 @@ msgstr "ciąg określający zmienną z `data`, który reprezentuje zmienną grup
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
 "Umożliwia tworzenie kilku rodzajów wykresów eksploracyjnych, takich jak "
-"wykresy rozrzuty i diagram Pareta. Znajduje się w menu „Eksploracja”."
+"wykresy rozrzuty i wykresy Pareto. Znajduje się w menu „Eksploracja”."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
@@ -86,12 +86,12 @@ msgstr "Wykresy pudełkowe"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr "Zlicz"
+msgstr "Liczebności"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr "Zlicz (opcjonalne)"
+msgstr "Liczebności (opcjonalne)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
@@ -118,7 +118,7 @@ msgstr ""
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr "Funkcja tworzenia diagramów Pareto."
+msgstr "Funkcja tworzenia wykresów Pareto."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
@@ -145,7 +145,7 @@ msgstr "Brak"
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr "Diagram Pareto"
+msgstr "Wykres Pareto"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
@@ -211,7 +211,7 @@ msgstr "Błąd standardowy"
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
 msgid "the data as a data frame"
-msgstr "dane jako ramka danych"
+msgstr "dane jako ramka danych (data frame)"
 
 #: pareto/options/x.title
 #: pareto/ui[0][0].label
