@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-07-25 04:17+0000\n"
+"PO-Revision-Date: 2022-07-26 05:19+0000\n"
 "Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ko/>\n"
@@ -75,7 +75,7 @@ msgstr "빈도"
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr "빈도 (옵션)"
+msgstr "빈도(선택사항)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
@@ -188,7 +188,7 @@ msgstr "매끄러운"
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr "표준 오차"
+msgstr "표준오차"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
