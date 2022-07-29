@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-07-26 05:19+0000\n"
+"PO-Revision-Date: 2022-07-29 07:59+0000\n"
 "Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ko/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr "팔레토 차트"
+msgstr "Pareto 차트"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
@@ -66,7 +66,7 @@ msgstr "X축 레이블의 각도"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr "박스 도표"
+msgstr "Box 도표"
 
 #: R/pareto.b.R
 msgid "Counts"
@@ -113,8 +113,9 @@ msgstr "직선"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
+#, fuzzy
 msgid "Marginals"
-msgstr "그래프 주변부"
+msgstr "외곽"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
@@ -127,7 +128,7 @@ msgstr "없음"
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr "파레토 차트"
+msgstr "Pareto 차트"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
@@ -140,7 +141,7 @@ msgstr "회귀선"
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr "scatr(도면 기능 확장 모듈)"
+msgstr ""
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -184,7 +185,7 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr "매끄러운"
+msgstr ""
 
 #: scat/options/se.title
 msgid "Standard error"
