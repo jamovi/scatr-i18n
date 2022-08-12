@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-07-29 07:59+0000\n"
+"PO-Revision-Date: 2022-08-13 06:22+0000\n"
 "Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ko/>\n"
@@ -34,7 +34,7 @@ msgstr "Pareto 차트"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr "산점도"
+msgstr "산포도"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr "X축 레이블의 각도"
+msgstr "X축 라벨의 각도"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
