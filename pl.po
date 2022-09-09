@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-09-06 15:21+0000\n"
+"PO-Revision-Date: 2022-09-11 08:18+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "pl/>\n"
@@ -127,12 +127,12 @@ msgstr "Grupa"
 
 #: scat/options/line/linear.title
 msgid "Linear"
-msgstr "Liniowy"
+msgstr "Prosta"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
 msgid "Marginals"
-msgstr "Marginesy"
+msgstr "Brzegi"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
@@ -218,9 +218,9 @@ msgstr "dane jako ramka danych"
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr "oś X"
+msgstr "Oś X"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr "oś Y"
+msgstr "Oś Y"
