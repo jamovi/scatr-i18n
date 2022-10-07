@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-04-09 14:09+0000\n"
+"PO-Revision-Date: 2022-10-07 11:11+0000\n"
 "Last-Translator: jpmaroco <jpmaroco@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/pt/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -85,7 +85,7 @@ msgstr "Ângulo das etiquetas do eixo xx"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr "Diagrama de Extremos e Quartis"
+msgstr "Boxplots"
 
 #: R/pareto.b.R
 msgid "Counts"
@@ -116,7 +116,8 @@ msgstr "Exploração"
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
 "Função para fazer gráficos de dispersão simples e com boa aparência com a "
-"opção de adicionar densidade marginal ou diagrama de extremos e quartis."
+"opção de adicionar densidade marginal ou diagrama de extremos e quartis "
+"(boxplots)."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
