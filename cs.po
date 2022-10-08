@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-08-25 07:17+0000\n"
-"Last-Translator: Jan Kremláček <jan.kremlacek@lfhk.cuni.cz>\n"
+"PO-Revision-Date: 2022-10-10 18:12+0000\n"
+"Last-Translator: Josef Dittrych\\ pepa 77\\josef 77 <pepa.gulasek77@gmail."
+"com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "cs/>\n"
 "Language: cs\n"
@@ -10,97 +11,118 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
+",,none“ (výchozí), „dens“ nebo „box“ neposkytují na osách žádné grafy, grafy "
+"hustoty nebo krabicové grafy"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
+"„žádná“ (výchozí), „lineární“ nebo „hladká“, neposkytují žádnou regresní "
+"přímku, lineární regresní přímku nebo vyhlazenou regresní přímku"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
 msgstr ""
+"`TRUE` nebo `FALSE` (výchozí), zobrazuje standardní chybu pro regresní přímku"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
+"číslo od 0 do 45 definující úhel popisků osy x, kde 0 stupňů představuje "
+"zcela vodorovné popisky."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "Paretův diagram"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "bodový graf"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
 msgstr ""
+"řetězec pojmenující proměnnou z `data`, který obsahuje počty hodnot "
+"(volitelné)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
 msgstr ""
+"řetězec pojmenující proměnnou z `data`, který obsahuje hodnoty použité pro "
+"graf"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"řetězec pojmenující proměnnou z „data“, který obsahuje souřadnice x bodů v "
+"grafu, proměnná musí být číselná"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"řetězec pojmenující proměnnou z „data“, který obsahuje souřadnice y bodů v "
+"grafu, proměnná musí být číselná"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
 msgstr ""
+"řetězec pojmenující proměnnou z `data`, který představuje seskupovací "
+"proměnnou"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
+"Umožňuje vytvářet několik typů průzkumných grafů, jako jsou bodové grafy a "
+"Paretovy grafy. Najdete jej v nabídce 'Průzkum'."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr ""
+msgstr "Úhel popisků osy x"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr ""
+msgstr "Boxplots"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "Počítání"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "Počty (volitelné)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "Kumulativní procento"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
-msgstr ""
+msgstr "Hustoty"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Průzkum"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
+"Funkce pro vytváření čistých, dobře vypadajících bodových grafů s možností "
+"přidat okrajovou hustotu krabicových grafů."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "Funkce pro vytváření Paretových diagramů."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
@@ -119,7 +141,7 @@ msgstr ""
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr ""
+msgstr "Žádný"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
