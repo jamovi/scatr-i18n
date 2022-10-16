@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-26 17:59+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2022-10-17 13:00+0000\n"
+"Last-Translator: Tymofii Lytvynenko <till.svit@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/uk/>\n"
 "Language: uk\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -49,32 +49,30 @@ msgstr "диаграмма рассеяния"
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
 msgstr ""
-"строка з ім'ям переменной з `data`, котра містить кількість значень "
-"(необязательно)"
+"рядок з іменем змінної з `data`, яка містить кількість значень "
+"(необов'язково)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
 msgstr ""
-"строка з ім'ям переменной з `data`, котра містить значення, використовувати "
-"для диаграммы"
+"рядок з іменем змінної з `data`, що містить значення, які використовуються "
+"для побудови графіка"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
 msgstr ""
-"строка, з ім'ям переменной з `data`, котра містить x-координаты точок на "
-"графіку, переменная повинна бути числовой"
+"рядок з іменем змінної з `data`, яка містить х координати точок на графіку, "
+"змінна повинна бути числовою"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
 msgstr ""
-"строка з ім'ям переменной з `data`, котра містить координаты y точок на "
-"графіку, переменная повинна бути числовой"
+"рядок з іменем змінної з `data`, що містить координати y точок на графіку, "
+"змінна повинна бути числовою"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
-msgstr ""
-"строка, именующая переменную з `data`, котра представляє группирующую "
-"переменную"
+msgstr "рядок з іменем змінної з `data`, яка представляє змінну групування"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
