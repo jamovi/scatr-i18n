@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-08-13 06:22+0000\n"
-"Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
+"PO-Revision-Date: 2022-11-04 09:59+0000\n"
+"Last-Translator: 이정희 <daemul72@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ko/>\n"
 "Language: ko\n"
@@ -10,23 +10,26 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
-msgstr ""
+msgstr "'none'(기본값), 'dens' 또는 'box'는 축에 플롯, 밀도 플롯 또는 상자 플롯을 "
+"각각 제공하지 않습니다"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
-msgstr ""
+msgstr "'none'(기본값), 'linear' 또는 'smooth'는 각각 회귀선 없음,  선형 회귀선 또는 "
+"평활 회귀선을 제공합니다"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
-msgstr ""
+msgstr "`참` 또는 `거짓`(기본값), 회귀선의 표준 오차를 표시합니다"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
-msgstr ""
+msgstr "x축 레이블의 각도를 정의하는 0에서 45 사이의 숫자입니다. 여기서 0도는 완전히 "
+"수평인 레이블을 나타냅니다."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
@@ -38,7 +41,7 @@ msgstr "산포도"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
-msgstr ""
+msgstr "값에 대한 개수를 포함하는 `data`에서 변수 이름을 지정하는 문자열 (선택 사항)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
@@ -75,7 +78,7 @@ msgstr "빈도"
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr "빈도(선택사항)"
+msgstr "빈도 (선택사항)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
