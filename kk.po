@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-11-16 17:48+0000\n"
+"PO-Revision-Date: 2022-11-18 03:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "kk/>\n"
@@ -119,7 +119,7 @@ msgstr ""
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr ""
+msgstr "ешқайсысы"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
