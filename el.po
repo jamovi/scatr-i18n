@@ -1,85 +1,113 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2022-11-23 19:47+0000\n"
+"Last-Translator: Γιώργος Καβρός <gior.k79@gmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
+"el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
+"κανένα» (προεπιλογή), «κέντρα» ή «πλαίσιο», δεν παρέχουν αντίστοιχα "
+"διαγράμματα, διάγραμμα πυκνότητας ή γραφικά πλαισίου στους άξονες"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
+"'κανένα' (προεπιλογή), 'γραμμικό' ή 'ομαλό', δεν παρέχουν αντίστοιχα γραμμή "
+"παλινδρόμησης, γραμμή γραμμικής παλινδρόμησης ή εξομαλυνόμενη γραμμή "
+"παλινδρόμησης"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
 msgstr ""
+"`TRUE` ή `FALSE` (προεπιλογή), επιστρέφει το τυπικό σφάλμα για την καμπύλη "
+"παλινδρόμησης"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
+"ένας αριθμός από το 0 έως το 45 που ορίζει τη γωνία των ετικετών του άξονα "
+"x, όπου οι 0 μοίρες αντιπροσωπεύουν εντελώς οριζόντιες  θέσεις."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "ένα διάγραμμα Pareto"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "ένα διάγραμμα διασποράς"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
 msgstr ""
+"μια συμβολοσειρά που ονομάζει τη μεταβλητή από «data» που περιέχει τις "
+"μετρήσεις για τις τιμές (προαιρετικό)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
 msgstr ""
+"Μια συμβολοσειρά που ονομάζει τη μεταβλητή από \\\"data\\\" και περιέχει τις "
+"τιμές που χρησιμοποιούνται για το γράφημα"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"μια συμβολοσειρά που ονομάζει τη μεταβλητή από 'data' που περιέχει τις "
+"συντεταγμένες x των σημείων της γραφικής παράστασης, η μεταβλητή πρέπει να "
+"είναι αριθμητική"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"μια συμβολοσειρά που ονομάζει τη μεταβλητή από 'data' που περιέχει τις "
+"συντεταγμένες y των σημείων της γραφικής παράστασης, η μεταβλητή πρέπει να "
+"είναι αριθμητική"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
 msgstr ""
+"Μια συμβολοσειρά που ονομάζει τη μεταβλητή από \\\"δεδομένα\\\" που "
+"αντιπροσωπεύει τη μεταβλητή ομαδοποίησης"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
+"Επιτρέπει την παραγωγή διαφόρων τύπων διερευνητικών οικοπέδων, όπως οικόπεδα "
+"διασποράς και γραφήματα pareto. Μπορείτε να το βρείτε στο μενού \\"
+"\"Εξερεύνηση\\\"."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr ""
+msgstr "Γωνία ετικετών άξονα x"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr ""
+msgstr "Θηκόγραμμα"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "μετράει"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "Μετρήσεις (προαιρετικά)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "Αθροιστικό Ποσοστό"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
-msgstr ""
+msgstr "Πυκνότητες"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
@@ -90,45 +118,55 @@ msgstr ""
 
 #: package/analyses/scat.description
 #: scat/options.description.main
+#, fuzzy
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
+"Λειτουργία για τη δημιουργία καθαρών, όμορφων οικοπέδων διασποράς με την "
+"επιλογή προσθήκης οριακής πυκνότητας ή οικοπέδων Θηκογράμματων."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
+#, fuzzy
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "Λειτουργία για τη δημιουργία γραφημάτων pareto."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
+#, fuzzy
 msgid "Group"
-msgstr ""
+msgstr "Ομάδα"
 
 #: scat/options/line/linear.title
+#, fuzzy
 msgid "Linear"
-msgstr ""
+msgstr "Γραμμική"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
+#, fuzzy
 msgid "Marginals"
-msgstr ""
+msgstr "Οριακή"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
+#, fuzzy
 msgid "None"
-msgstr ""
+msgstr "Κανένα"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
 #: pareto/options.title
 #: pareto/ui.title
 #: pareto/results.title
+#, fuzzy
 msgid "Pareto Chart"
-msgstr ""
+msgstr "γράφημα Pareto"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
+#, fuzzy
 msgid "Regression Line"
-msgstr ""
+msgstr "Γραμμή παλινδρόμησης"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -143,8 +181,9 @@ msgstr ""
 #: scat/options.title
 #: scat/ui.title
 #: scat/results.title
+#, fuzzy
 msgid "Scatterplot"
-msgstr ""
+msgstr "Διάγραμμα διασποράς"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -157,6 +196,7 @@ msgid "set.seed(1337)\n"
 msgstr ""
 
 #: pareto/options.description.R.usage
+#, fuzzy
 msgid "set.seed(1337)\n"
 "\n"
 "X <- sample(c('A','B','C','D','E','F'), 100, replace=TRUE)\n"
@@ -164,28 +204,37 @@ msgid "set.seed(1337)\n"
 "\n"
 "pareto(dat, x = 'X')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- δείγμα(c('A','B','C','D','E','F'), 100, αντικαθιστώ=TRUE)\n"
+"dat <- data.frame(X = X)\n"
+"\n"
+"pareto(dat, x = 'X')"
 
 #: scat/options/line/smooth.title
+#, fuzzy
 msgid "Smooth"
-msgstr ""
+msgstr "εξομαλύνω"
 
 #: scat/options/se.title
+#, fuzzy
 msgid "Standard error"
-msgstr ""
+msgstr "Τυπικό σφάλμα"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
+#, fuzzy
 msgid "the data as a data frame"
-msgstr ""
+msgstr "τα δεδομένα ως πλαίσιο δεδομένων"
 
 #: pareto/options/x.title
 #: pareto/ui[0][0].label
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "X-Άξονας"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y-Άξονας"
