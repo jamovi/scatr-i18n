@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-05-31 12:19+0000\n"
-"Last-Translator: Sami Çoksan <sami.coksan@erzurum.edu.tr>\n"
+"PO-Revision-Date: 2023-02-01 07:52+0000\n"
+"Last-Translator: Ünal Halit ÖZDEN <uozden@ticaret.edu.tr>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/tr/>\n"
 "Language: tr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -21,6 +21,8 @@ msgstr ""
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
+"`none` (varsayılan), `linear` veya `smooth`, sırasıyla regresyon çizgisi "
+"yok, doğrusal regresyon çizgisi veya düzleştirilmiş regresyon çizgisi sağlar"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
@@ -51,6 +53,8 @@ msgstr ""
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
 msgstr ""
+"grafik için kullanılan değerleri içeren `data` değişkenini adlandıran bir "
+"dize"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
@@ -88,7 +92,6 @@ msgid "Counts (optional)"
 msgstr "Sayı (isteğe bağlı)"
 
 #: R/pareto.b.R
-#, fuzzy
 msgid "Cumulative Percentage"
 msgstr "Kümülatif Yüzde"
 
@@ -117,7 +120,6 @@ msgstr "Pareto çizelgeleri yapmak için işlev."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
-#, fuzzy
 msgid "Group"
 msgstr "Grup"
 
@@ -188,7 +190,6 @@ msgid "Smooth"
 msgstr "Düz"
 
 #: scat/options/se.title
-#, fuzzy
 msgid "Standard error"
 msgstr "Standart hata"
 
@@ -201,9 +202,8 @@ msgstr "veri çerçevesi (data frame) olarak veri"
 #: pareto/ui[0][0].label
 #: scat/options/x.title
 #: scat/ui[0][0].label
-#, fuzzy
 msgid "X-Axis"
-msgstr "X-ekseni"
+msgstr "X-Ekseni"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
