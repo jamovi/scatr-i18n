@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-03-26 09:43+0000\n"
-"Last-Translator: R <romaric.hainez@gmail.com>\n"
+"PO-Revision-Date: 2023-02-08 17:39+0000\n"
+"Last-Translator: Coraline Lethimonnier <coraline@stats-co.eu>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "fr/>\n"
 "Language: fr\n"
@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
-"`none` (par défaut), `dens`, ou `box`, fournissent respectivement aucun "
-"tracé, des tracés de densité, ou des tracés en boîte sur les axes"
+"`none` (par défaut), `dens`, ou `box`, ne fournissent respectivement aucun "
+"graphique, graphique de densité, ou boites à moustaches sur les axes"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
@@ -214,7 +214,7 @@ msgstr "Lissée"
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr "Erreur type (erreur standard)"
+msgstr "Erreur standard"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
