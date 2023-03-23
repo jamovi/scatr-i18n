@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-12-14 02:47+0000\n"
-"Last-Translator: ABDULLAH MOHAMMED ALMONTSHRI <acc302@gmail.com>\n"
+"PO-Revision-Date: 2023-03-24 12:41+0000\n"
+"Last-Translator: Fethi GHARIANI <ghariani.fethi@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ar/>\n"
 "Language: ar\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -27,9 +27,8 @@ msgstr ""
 "انحدار أو خط انحدار خطي أو خط انحدار سلس"
 
 #: scat/options/se.description.R
-#, fuzzy
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
-msgstr "\"TRUE\" أو \"FALSE\" (افتراضي)، إظهار الخطأ القياسي لخط الانحدار"
+msgstr "\"صحيح\" أو \"خطأ\" (افتراضي)، إظهار الخطأ القياسي لخط الانحدار"
 
 #: pareto/options/angle.description.R
 #, fuzzy
@@ -43,9 +42,8 @@ msgid "a Pareto chart"
 msgstr "مخطط باريتو"
 
 #: scat/results/scat.description
-#, fuzzy
 msgid "a scatter plot"
-msgstr "مؤامرة مبعثرة"
+msgstr "الرّسوم المبعثرة"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
@@ -90,7 +88,7 @@ msgstr "زاوية تسميات المحور س"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr "Boxplots"
+msgstr "الرّسوم الصّندوقية"
 
 #: R/pareto.b.R
 #, fuzzy
