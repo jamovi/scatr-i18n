@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2023-03-24 12:41+0000\n"
-"Last-Translator: Fethi GHARIANI <ghariani.fethi@gmail.com>\n"
+"PO-Revision-Date: 2023-04-27 16:52+0000\n"
+"Last-Translator: 轟焦凍✨ <rorohasen404@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ar/>\n"
 "Language: ar\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.17-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -20,11 +20,10 @@ msgstr ""
 "مخططات أو مخططات كثافة أو مخططات مربعة على المحاور"
 
 #: scat/options/line.description.R
-#, fuzzy
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
-"\"لا شيء\" (افتراضي) أو \"خطي\" أو \"سلس\" ، لا يوفر على التوالي أي خط "
-"انحدار أو خط انحدار خطي أو خط انحدار سلس"
+"لا يقدم \"none\" (افتراضي) أو \"خطي\" أو \"سلس\" على التوالي خط انحدار أو خط "
+"انحدار خطي أو خط انحدار متجانس"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
@@ -128,9 +127,8 @@ msgstr ""
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
-#, fuzzy
 msgid "Function for making pareto charts."
-msgstr "وظيفة لعمل مخططات باريتو."
+msgstr "وظيفة لعمل مخططات باريتو"
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
