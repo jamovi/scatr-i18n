@@ -1,9 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-10-10 18:12+0000\n"
-"Last-Translator: Josef Dittrych\\ pepa 77\\josef 77 <pepa.gulasek77@gmail."
-"com>\n"
+"PO-Revision-Date: 2023-05-11 21:50+0000\n"
+"Last-Translator: Valeriia Zhuravska <zhuravskayalera1@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "cs/>\n"
 "Language: cs\n"
@@ -11,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -131,12 +130,12 @@ msgstr "Skupina"
 
 #: scat/options/line/linear.title
 msgid "Linear"
-msgstr ""
+msgstr "Lineární"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
 msgid "Marginals"
-msgstr ""
+msgstr "Okrajové položky"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
@@ -149,12 +148,12 @@ msgstr "Žádný"
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr ""
+msgstr "Paretův diagram"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr ""
+msgstr "Regresní přímka"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -162,7 +161,7 @@ msgstr ""
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "rozptyl"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -170,7 +169,7 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatterplot"
-msgstr ""
+msgstr "Korelační diagram"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -193,25 +192,25 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr ""
+msgstr "Hladký"
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr ""
+msgstr "Směrodatná odchylka"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
 msgid "the data as a data frame"
-msgstr ""
+msgstr "data jako datový rámec"
 
 #: pareto/options/x.title
 #: pareto/ui[0][0].label
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "Osa X"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Osa Y"
