@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-12-09 15:47+0000\n"
-"Last-Translator: Quinten Althues <quintenra@gmail.com>\n"
+"PO-Revision-Date: 2023-08-08 19:47+0000\n"
+"Last-Translator: Astrid <github@astrid.exposed>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "nl/>\n"
 "Language: nl\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -108,7 +108,7 @@ msgstr "Dichtheden"
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "Verkennen"
+msgstr "Verkenning"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
