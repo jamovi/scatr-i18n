@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2022-11-04 09:59+0000\n"
+"PO-Revision-Date: 2023-08-27 00:51+0000\n"
 "Last-Translator: 이정희 <daemul72@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ko/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14.2-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -45,23 +45,26 @@ msgstr "값에 대한 개수를 포함하는 `data`에서 변수 이름을 지�
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
-msgstr ""
+msgstr "차트에 사용되는 값을 포함하는 `data`의 변수 이름을  지정하는 문자열"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
-msgstr ""
+msgstr "플롯에 있는 점의 x 좌표가 포함된 `data`의 변수 이름을  지정하는 문자열, "
+"변수는 숫자여야 합니다"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
-msgstr ""
+msgstr "플롯에 있는 점의 y 좌표가 포함된 `data`의 변수 이름을  지정하는 문자열, "
+"변수는 숫자여야 합니다"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
-msgstr ""
+msgstr "그룹화 변수를 나타내는 `data`에서 변수 이름을  지정하는 문자열"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
-msgstr ""
+msgstr "분산형 차트, 파레토 차트 등 여러 유형의 탐색형 도표를 만들 수 있습니다. "
+"'탐색' 메뉴에서 찾을 수 있습니다."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
@@ -93,17 +96,18 @@ msgstr "밀도곡선"
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "기술통계"
+msgstr "탐구"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
-msgstr ""
+msgstr "한계 분산형 차트 또는 박스형 차트를 추가하는 옵션으로 깔끔하고 보기 좋은 "
+"분산형 차트를 만드는 기능입니다."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "파레토 차트를 만드는 기능입니다."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
@@ -116,9 +120,8 @@ msgstr "직선"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
-#, fuzzy
 msgid "Marginals"
-msgstr "외곽"
+msgstr "그래프 주변부"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
@@ -144,7 +147,7 @@ msgstr "회귀선"
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "scatr"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -188,11 +191,11 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr ""
+msgstr "스무드"
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr "표준오차"
+msgstr "표준 오차"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
