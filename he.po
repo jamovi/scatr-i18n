@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2023-09-12 09:56+0000\n"
+"PO-Revision-Date: 2023-09-13 13:49+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "he/>\n"
@@ -187,10 +187,12 @@ msgstr ""
 #: pareto/ui[0][0].label
 #: scat/options/x.title
 #: scat/ui[0][0].label
+#, fuzzy
 msgid "X-Axis"
-msgstr ""
+msgstr "X-Axis"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
+#, fuzzy
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y-Axis"
