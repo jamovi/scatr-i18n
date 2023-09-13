@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2023-09-04 12:55+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2023-09-13 13:49+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "de/>\n"
 "Language: de\n"
@@ -112,7 +112,7 @@ msgstr "Dichte"
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "Erkundung"
+msgstr "Exploration"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
