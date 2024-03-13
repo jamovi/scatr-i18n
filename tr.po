@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-01-28 07:01+0000\n"
-"Last-Translator: eurotec <e8013585@gmail.com>\n"
+"PO-Revision-Date: 2024-03-14 03:02+0000\n"
+"Last-Translator: Semih <semihbrn10@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/tr/>\n"
 "Language: tr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -59,14 +59,19 @@ msgstr ""
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"grafikteki noktaların x koordinatlarını içeren \"data\"dan değişkeni "
+"adlandıran bir dize; değişken sayısal olmalıdır"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"grafikteki noktaların y koordinatlarını içeren \"data\"dan değişkeni "
+"adlandıran bir dize; değişken sayısal olmalıdır"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
 msgstr ""
+"gruplama değişkenini temsil eden \"data\"dan değişkeni adlandıran bir dize"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
@@ -104,7 +109,7 @@ msgstr "Yoğunluklar"
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "Keşfet"
+msgstr "Keşif"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
@@ -175,6 +180,13 @@ msgid "set.seed(1337)\n"
 "\n"
 "scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- rnorm(100)\n"
+"Y <- 0.5*X + rnorm(100)\n"
+"dat <- data.frame(X = X, Y = Y)\n"
+"\n"
+"scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 
 #: pareto/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -184,6 +196,12 @@ msgid "set.seed(1337)\n"
 "\n"
 "pareto(dat, x = 'X')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- sample(c('A','B','C','D','E','F'), 100, replace=TRUE)\n"
+"dat <- data.frame(X = X)\n"
+"\n"
+"pareto(dat, x = 'X')"
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
