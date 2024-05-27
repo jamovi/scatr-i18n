@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-02-11 23:02+0000\n"
+"PO-Revision-Date: 2024-05-28 15:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "he/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -31,11 +31,11 @@ msgstr ""
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "תרשים פארטו"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "תרשים פיזור"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
@@ -67,7 +67,7 @@ msgstr ""
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr ""
+msgstr "תרשימי קופסאות"
 
 #: R/pareto.b.R
 msgid "Counts"
@@ -84,7 +84,7 @@ msgstr ""
 
 #: scat/options/marg/dens.title
 msgid "Densities"
-msgstr ""
+msgstr "צפיפויות"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
@@ -110,7 +110,7 @@ msgstr "קבוצה"
 
 #: scat/options/line/linear.title
 msgid "Linear"
-msgstr ""
+msgstr "ליניארי"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
@@ -128,12 +128,12 @@ msgstr ""
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr ""
+msgstr "תרשים פארטו"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr ""
+msgstr "קו רגרסיה"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -149,7 +149,7 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatterplot"
-msgstr ""
+msgstr "תרשים פיזור"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -172,11 +172,11 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr ""
+msgstr "חלק"
 
 #: scat/options/se.title
 msgid "Standard error"
-msgstr ""
+msgstr "טעות תקן"
 
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
@@ -187,12 +187,10 @@ msgstr ""
 #: pareto/ui[0][0].label
 #: scat/options/x.title
 #: scat/ui[0][0].label
-#, fuzzy
 msgid "X-Axis"
-msgstr "X-Axis"
+msgstr "ציר X"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
-#, fuzzy
 msgid "Y-Axis"
-msgstr "Y-Axis"
+msgstr "ציר Y"
