@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-05-07 18:07+0000\n"
+"PO-Revision-Date: 2024-05-29 22:09+0000\n"
 "Last-Translator: ΣΤΑΥΡΟΣ ΔΑΛΙΑΚΟΠΟΥΛΟΣ <stavros.daliakopoulos@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "el/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5.4-rc\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -136,7 +136,6 @@ msgid "Group"
 msgstr "Ομάδα"
 
 #: scat/options/line/linear.title
-#, fuzzy
 msgid "Linear"
 msgstr "Γραμμική"
 
