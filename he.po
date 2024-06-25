@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-06-24 15:09+0000\n"
+"PO-Revision-Date: 2024-06-26 14:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "he/>\n"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr ""
+msgstr "זווית התוויות של ציר X"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
