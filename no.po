@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
@@ -13,26 +14,33 @@ msgstr ""
 "X-Generator: Weblate 4.12-dev\n"
 
 #: scat/options/marg.description.R
-msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
+msgid ""
+"`none` (default), `dens`, or `box`, provide respectively no plots, density "
+"plots, or box plots on the axes"
 msgstr ""
 "`none` (standard), `dens` eller `box`, gi ut enten ingen plott, "
 "tetthetsdiagram eller boksplott på aksene"
 
 #: scat/options/line.description.R
-msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
+msgid ""
+"`none` (default), `linear`, or `smooth`, provide respectively no regression "
+"line,  a linear regression line, or a smoothed regression line"
 msgstr ""
-"`none` (Vorgabe), `linear` oder `smooth`, gi ut enten ingen regresjonslinje, "
+"`none` (standard), `linear` eller `smooth`, gi ut enten ingen regresjonslinje, "
 "en lineær regresjonslinje eller en utjevnet regresjonslinje"
 
 #: scat/options/se.description.R
-msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
-msgstr "`TRUE` or `FALSE` (standard), vis standardfeilen for regresjonslinjen"
+msgid ""
+"`TRUE` or `FALSE` (default), show the standard error for the regression line"
+msgstr "`TRUE` eller `FALSE` (standard), viser regresjonslinjens standardfeil"
 
 #: pareto/options/angle.description.R
-msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
+msgid ""
+"a number from 0 to 45 defining the angle of the x-axis labels,  where 0 "
+"degrees represents completely horizontal labels."
 msgstr ""
-"et tall fra 0 til 45 som definerer vinkelen til x-akse-etikettene, 0 grader "
-"representerer helt horisontale etikettene."
+"et tall fra 0 til 45 som definerer vinkelen på x-akseetikettene, der 0 grader"
+" representerer helt horisontale etiketter."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
@@ -43,37 +51,49 @@ msgid "a scatter plot"
 msgstr "et spredningsdiagram"
 
 #: pareto/options/counts.description.R
-msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
+msgid ""
+"a string naming the variable from `data` that contains the  counts for the "
+"values (optional)"
 msgstr ""
-"en streng som viser til variabelen fra `data` som inneholder antall for "
-"verdiene (valgfritt)"
+"en streng med tegn som navngir variabelen fra `data` som inneholder antall "
+"verdier (valgfritt)"
 
 #: pareto/options/x.description.R
-msgid "a string naming the variable from `data` that contains the  values used for the chart"
+msgid ""
+"a string naming the variable from `data` that contains the  values used for "
+"the chart"
 msgstr ""
-"en streng som viser til variabelen fra `data` som inneholder verdiene som "
-"brukes for diagrammet"
+"en streng med tegn som viser til variabelen fra `data` som inneholder "
+"verdiene som brukes for diagrammet"
 
 #: scat/options/x.description.R
-msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
+msgid ""
+"a string naming the variable from `data` that contains the  x coordinates of"
+" the points in the plot, variable must be numeric"
 msgstr ""
-"en streng som viser til variabelen fra `data` som inneholder x-koordinatene "
-"til punktene i diagrammet; variabelen må være numerisk"
+"en streng med tegn som viser til variabelen fra `data` som inneholder "
+"x-koordinatene til punktene i diagrammet; variabelen må være numerisk"
 
 #: scat/options/y.description.R
-msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
+msgid ""
+"a string naming the variable from `data` that contains the  y coordinates of"
+" the points in the plot, variable must be numeric"
 msgstr ""
-"en streng som viser til variabelen fra `data` som inneholder y-koordinatene "
-"til punktene i diagrammet; variabelen må være numerisk"
+"en streng med tegn som viser til variabelen fra `data` som inneholder "
+"y-koordinatene til punktene i diagrammet; variabelen må være numerisk"
 
 #: scat/options/group.description.R
-msgid "a string naming the variable from `data` that represents the  grouping variable"
+msgid ""
+"a string naming the variable from `data` that represents the  grouping "
+"variable"
 msgstr ""
-"en streng som viser til variabelen fra `data` som representerer "
+"en streng med tegn som viser til variabelen fra `data` som representerer "
 "grupperingsvariabelen"
 
 #: package.description
-msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
+msgid ""
+"Allows you to produce several types of explorative plots such as scatter "
+"plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
 "Tillater å lage flere typer diagrammer for eksplorativ dataanalyse, for "
 "eksempel sprednings- og Pareto-diagrammer. Du finner den i menyen "
@@ -113,7 +133,9 @@ msgstr "Eksplorasjon"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
-msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
+msgid ""
+"Function for making clean, good looking scatter plots with the option to add"
+" marginal denisty or box plots."
 msgstr ""
 "Funksjon for å lage enkle, god utseende spredningsdiagrammer som kan "
 "komplementeres (opsjonal) ved tetthetsdiagrammer eller boksplott."
@@ -172,7 +194,8 @@ msgid "Scatterplot"
 msgstr "Spredningsdiagram"
 
 #: scat/options.description.R.usage
-msgid "set.seed(1337)\n"
+msgid ""
+"set.seed(1337)\n"
 "\n"
 "X <- rnorm(100)\n"
 "Y <- 0.5*X + rnorm(100)\n"
@@ -189,7 +212,8 @@ msgstr ""
 "scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 
 #: pareto/options.description.R.usage
-msgid "set.seed(1337)\n"
+msgid ""
+"set.seed(1337)\n"
 "\n"
 "X <- sample(c('A','B','C','D','E','F'), 100, replace=TRUE)\n"
 "dat <- data.frame(X = X)\n"
@@ -214,7 +238,7 @@ msgstr "Standardfeil"
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
 msgid "the data as a data frame"
-msgstr "dataene som `data frame`"
+msgstr "dataene som data frame"
 
 #: pareto/options/x.title
 #: pareto/ui[0][0].label
