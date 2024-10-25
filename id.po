@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2023-10-09 13:34+0000\n"
-"Last-Translator: EngageIndo <engageindo@gmail.com>\n"
+"PO-Revision-Date: 2024-10-26 23:15+0000\n"
+"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/id/>\n"
 "Language: id\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.8.2-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -27,14 +27,16 @@ msgstr ""
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
+"angka dari 0 hingga 45 yang mendefinisikan sudut label sumbu x, di mana 0 "
+"derajat mewakili label yang sepenuhnya horizontal."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "bagan Pareto"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "plot scatter"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
@@ -70,7 +72,7 @@ msgstr ""
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "Menghitung"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
