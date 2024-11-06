@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-08-26 13:09+0000\n"
+"PO-Revision-Date: 2024-11-07 17:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "he/>\n"
@@ -11,23 +11,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.7.1-dev\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
+"`none` (ברירת המחדל), `dens` או `box` – מספקים בהתאמה: תרשים ריק, תרשימי "
+"צפיפות, או תרשימי קופסות על הצירים"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
+"`none` (ברירת המחדל), `linear` או `smooth` – מספקים בהתאמה: קו רגרסיה ריק, "
+"קו רגרסיה ליניארי, או קו רגרסיה מוחלק"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
-msgstr ""
+msgstr "`TRUE` או `FALSE` (ברירת המחדל) – הצגת טעות התקן של קו הרגרסיה"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
+"מספר בין 0 ל־45 המגדיר את הזווית של תוויות ציר ה־x, כאשר 0 מעלות מסמלות "
+"תוויות מאוזנות לחלוטין."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
@@ -39,27 +45,33 @@ msgstr "תרשים פיזור"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
-msgstr ""
+msgstr "מחרוזת הקוראת בשם המשתנה מתוך `data` המכיל את ספירות הערכים (רשות)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
-msgstr ""
+msgstr "מחרוזת הקוראת בשם המשתנה מתוך `data` המכיל את הערכים שהיו בשימוש בתרשים"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"מחרוזת הקוראת בשם המשתנה מתוך `data` המכיל את קואורדינטות ה־x של הנקודות "
+"בתרשים. המשתנה חייב להיות שמני"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
 msgstr ""
+"מחרוזת הקוראת בשם המשתנה מתוך `data` המכיל את קואורדינטות ה־y של הנקודות "
+"בתרשים. המשתנה חייב להיות שמני"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
-msgstr ""
+msgstr "מחרוזת הקוראת בשם המשתנה מתוך `data` המייצג את המשתנה המקבץ"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
+"מאפשר הפקה של כמה סוגים של תרשימי סקירה שונים, כמו תרשים פיזור או תרשים "
+"פארטו. ניתן למצוא את זה תחת התפריט ”סקירה“."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
@@ -71,7 +83,7 @@ msgstr "תרשימי קופסאות"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "ספירות"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
@@ -80,7 +92,7 @@ msgstr "ספירה (רשות)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "אחוז מצטבר"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
@@ -97,11 +109,13 @@ msgstr "סקירה"
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
+"פונקצייה ליצירת תרשימי פיזור במראה נקי וטוב, ובה האפשרות להוסיף צפיפות שולית "
+"או תרשימי קופסה."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "פונקצייה ליצירת תרשימי פארטו."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
@@ -115,7 +129,7 @@ msgstr "ליניארי"
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
 msgid "Marginals"
-msgstr ""
+msgstr "שוליים"
 
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
@@ -160,6 +174,13 @@ msgid "set.seed(1337)\n"
 "\n"
 "scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- rnorm(100)\n"
+"Y <- 0.5*X + rnorm(100)\n"
+"dat <- data.frame(X = X, Y = Y)\n"
+"\n"
+"scat(dat, x = 'X', y = 'Y', line = 'linear', se = TRUE, marg = 'dens')"
 
 #: pareto/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -169,6 +190,12 @@ msgid "set.seed(1337)\n"
 "\n"
 "pareto(dat, x = 'X')"
 msgstr ""
+"set.seed(1337)\n"
+"\n"
+"X <- sample(c('A','B','C','D','E','F'), 100, replace=TRUE)\n"
+"dat <- data.frame(X = X)\n"
+"\n"
+"pareto(dat, x = 'X')"
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
@@ -181,7 +208,7 @@ msgstr "טעות תקן"
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
 msgid "the data as a data frame"
-msgstr ""
+msgstr "הנתונים כמסגרת נתונים"
 
 #: pareto/options/x.title
 #: pareto/ui[0][0].label
