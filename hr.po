@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-05-10 18:23+0000\n"
+"PO-Revision-Date: 2024-11-10 21:00+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/hr/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.5.4\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -31,11 +31,11 @@ msgstr ""
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "Pareto dijagram"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr ""
+msgstr "grafikon raspršenja"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
-msgstr ""
+msgstr "Kut oznaka osi x"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
@@ -80,7 +80,7 @@ msgstr ""
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "Kumulativni postotak"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
@@ -91,7 +91,7 @@ msgstr ""
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Eksploracija"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
@@ -128,12 +128,12 @@ msgstr "Nijedan"
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Chart"
-msgstr ""
+msgstr "Pareto dijagram"
 
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr ""
+msgstr "Linija regresije"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -149,7 +149,7 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatterplot"
-msgstr ""
+msgstr "Dijagram raspršenja"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -172,7 +172,7 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr ""
+msgstr "Zaglađena"
 
 #: scat/options/se.title
 msgid "Standard error"
@@ -181,16 +181,16 @@ msgstr "Standardna greška"
 #: pareto/options/data.description.R
 #: scat/options/data.description.R
 msgid "the data as a data frame"
-msgstr "podatci kao skup podataka"
+msgstr "podaci kao skup podataka"
 
 #: pareto/options/x.title
 #: pareto/ui[0][0].label
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr "X-os"
+msgstr "Os X"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr "Y-Os"
+msgstr "Os Y"
