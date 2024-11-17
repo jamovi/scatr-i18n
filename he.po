@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-11-07 17:00+0000\n"
+"PO-Revision-Date: 2024-11-18 13:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "he/>\n"
@@ -11,19 +11,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
-"`none` (ברירת המחדל), `dens` או `box` – מספקים בהתאמה: תרשים ריק, תרשימי "
-"צפיפות, או תרשימי קופסות על הצירים"
+"`none` (ברירת המחדל), `dens` או `box` – בהתאמה: תרשים ריק, תרשימי צפיפות, או "
+"תרשימי קופסות על הצירים"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
-"`none` (ברירת המחדל), `linear` או `smooth` – מספקים בהתאמה: קו רגרסיה ריק, "
-"קו רגרסיה ליניארי, או קו רגרסיה מוחלק"
+"`none` (ברירת המחדל), `linear` או `smooth` – בהתאמה: קו רגרסיה ריק, קו "
+"רגרסיה ליניארי, או קו רגרסיה מוחלק"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
