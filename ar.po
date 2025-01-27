@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2023-06-12 17:07+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2025-01-27 22:28+0000\n"
+"Last-Translator: Addd Abbb <adddabbb30@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ar/>\n"
 "Language: ar\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -30,11 +30,10 @@ msgid "`TRUE` or `FALSE` (default), show the standard error for the regression l
 msgstr "\"صحيح\" أو \"خطأ\" (افتراضي)، إظهار الخطأ القياسي لخط الانحدار"
 
 #: pareto/options/angle.description.R
-#, fuzzy
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
-"رقم من 0 إلى 45 يحدد زاوية تسميات المحور x ، حيث تمثل 0 درجة تسميات أفقية "
-"تمامًا."
+"‐‐—————–—‐­­­­­­­”““……………………رقم من 0 إلى 45 يحدد زاوية تسميات المحور x ، حيث "
+"تمثل 0 درجة تسميات أفقية تمامًا."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
@@ -90,9 +89,8 @@ msgid "Boxplots"
 msgstr "الرّسوم الصّندوقية"
 
 #: R/pareto.b.R
-#, fuzzy
 msgid "Counts"
-msgstr "العد"
+msgstr ""
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
