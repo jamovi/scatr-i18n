@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-04-09 10:01+0000\n"
-"Last-Translator: Arya Ghorbani <boytellurian@yahoo.com>\n"
+"PO-Revision-Date: 2025-03-12 06:28+0000\n"
+"Last-Translator: Amirhosein <amirmirabizade@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/fa/>\n"
 "Language: fa\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -90,7 +90,7 @@ msgstr ""
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "اکتشاف"
+msgstr "جست و جو"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
