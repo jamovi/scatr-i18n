@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-01-27 22:28+0000\n"
-"Last-Translator: Addd Abbb <adddabbb30@gmail.com>\n"
+"PO-Revision-Date: 2025-03-23 03:42+0000\n"
+"Last-Translator: ABDULLAH MOHAMMED ALMONTSHRI <acc302@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "ar/>\n"
 "Language: ar\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -90,7 +90,7 @@ msgstr "الرّسوم الصّندوقية"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "العد"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
@@ -111,7 +111,6 @@ msgstr "الكثافات"
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
-#, fuzzy
 msgid "Exploration"
 msgstr "استكشاف"
 
