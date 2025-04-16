@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-10-15 16:16+0000\n"
-"Last-Translator: \"game.crash\" <game.crash534@gmail.com>\n"
+"PO-Revision-Date: 2025-04-16 21:13+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "de/>\n"
 "Language: de\n"
@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-rc\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
 "`none` (Vorgabe), `dens` oder `box`, gibt entweder keine Diagramme, "
-"Dichtediagramme oder Boxplots aus"
+"Dichtediagramme oder Box-Plots aus"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
@@ -112,14 +112,14 @@ msgstr "Dichte"
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "Erforschung"
+msgstr "Exploration"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
-"Eine Funktion um einfache, gut aussehende Streudiagramme zu erstellen und "
-"(optional) Dichtediagramme oder Boxplots zu diesen hinzuzufügen."
+"Eine Funktion, um einfache, gut aussehende Streudiagramme zu erstellen und "
+"(optional) Dichtediagramme oder Box-Plots zu diesen hinzuzufügen."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
