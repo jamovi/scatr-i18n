@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-03-24 19:47+0000\n"
+"PO-Revision-Date: 2025-06-17 13:01+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/scatr-i18n/"
 "he/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -32,8 +32,8 @@ msgstr "`TRUE` או `FALSE` (ברירת המחדל) – הצגת טעות התק
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
-"מספר בין 0 ל־45 המגדיר את הזווית של תוויות ציר ה־x, כאשר 0 מעלות מסמלות "
-"תוויות מאוזנות לחלוטין."
+"מספר בין 0 ל־45 המגדיר את הזווית של תוויות ציר x, כאשר 0 מעלות מסמלות תוויות "
+"מאוזנות לחלוטין."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
@@ -65,7 +65,7 @@ msgstr ""
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
-msgstr "מחרוזת הקוראת בשם המשתנה מתוך `data` המייצג את המשתנה המקבץ"
+msgstr "מחרוזת הקוראת בשם המשתנה מתוך `data` המייצג את משתנה ההקבצה"
 
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
@@ -124,7 +124,7 @@ msgstr "קבוצה"
 
 #: scat/options/line/linear.title
 msgid "Linear"
-msgstr "ליניארי"
+msgstr "קווי"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
@@ -199,7 +199,7 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr "חלק"
+msgstr "החלקה"
 
 #: scat/options/se.title
 msgid "Standard error"
