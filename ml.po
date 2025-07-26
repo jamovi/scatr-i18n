@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-09-12 05:09+0000\n"
+"PO-Revision-Date: 2025-07-26 19:05+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/ml/>\n"
@@ -10,19 +10,24 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
+"`none` (default), `dens`, അല്ലെങ്കിൽ `box` എന്നിവ യഥാക്രമം അക്ഷങ്ങളിൽ പ്ലോട്ടുകൾ ഇല്ല, "
+"ഡെൻസിറ്റി പ്ലോട്ടുകൾ അല്ലെങ്കിൽ ബോക്സ് പ്ലോട്ടുകൾ എന്ന് സൂചിപ്പിക്കുന്നു"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
+"`none` (default), `linear`, അല്ലെങ്കിൽ `smooth` എന്നിവ യഥാക്രമം റിഗ്രഷൻ ലൈൻ ഇല്ല,  "
+"ഒരു ലീനിയർ റിഗ്രഷൻ ലൈൻ, അല്ലെങ്കിൽ ഒരു സ്മൂത്ത്ഡ് റിഗ്രഷൻ ലൈൻ എന്നിവ സൂചിപ്പിക്കുന്നു"
 
 #: scat/options/se.description.R
 msgid "`TRUE` or `FALSE` (default), show the standard error for the regression line"
 msgstr ""
+"`TRUE` അല്ലെങ്കിൽ `FALSE` (default), റിഗ്രഷൻ ലൈനിന്റെ സ്റ്റാൻഡേഡ് എറർ കാണിക്കുന്നു"
 
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
