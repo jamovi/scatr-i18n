@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-03-12 06:28+0000\n"
-"Last-Translator: Amirhosein <amirmirabizade@proton.me>\n"
+"PO-Revision-Date: 2025-07-29 08:26+0000\n"
+"Last-Translator: Ramineezaei <ramrezaei3@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/fa/>\n"
 "Language: fa\n"
@@ -10,11 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.3-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
 msgstr ""
+"`هیچ یک (پیش فرض) ،\" Dens \"یا\" جعبه \"، به ترتیب هیچ نقشه ، توطئه چگالی "
+"یا توطئه های جعبه را در محورها ارائه نمی دهد"
 
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
