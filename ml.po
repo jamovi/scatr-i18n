@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-28 05:02+0000\n"
+"PO-Revision-Date: 2025-07-30 14:02+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/ml/>\n"
@@ -217,7 +217,7 @@ msgstr "ഡേറ്റ ഡേറ്റാ ഫ്രെയിം രൂപത്
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "X-അക്ഷം"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
