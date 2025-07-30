@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-03-14 03:02+0000\n"
-"Last-Translator: Semih <semihbrn10@gmail.com>\n"
+"PO-Revision-Date: 2025-07-30 14:02+0000\n"
+"Last-Translator: Musab Ustun <musabyusufustun@outlook.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/tr/>\n"
 "Language: tr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -89,7 +89,7 @@ msgstr "Kutu grafikleri"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr "Sayı"
+msgstr "Sayımlar"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
