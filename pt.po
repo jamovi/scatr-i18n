@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-05-27 20:01+0000\n"
-"Last-Translator: jpmaroco <jpmaroco@gmail.com>\n"
+"PO-Revision-Date: 2025-08-01 13:02+0000\n"
+"Last-Translator: Bernardo Gomes <bernardo.gomes@bebitterbebetter.com.br>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/pt/>\n"
 "Language: pt\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -21,7 +21,7 @@ msgstr ""
 #: scat/options/line.description.R
 msgid "`none` (default), `linear`, or `smooth`, provide respectively no regression line,  a linear regression line, or a smoothed regression line"
 msgstr ""
-"`none` (padrão), `linear` ou `smooth`, não fornecem respetivamente nenhuma "
+"`none` (padrão), `linear` ou `smooth` não fornecem respectivamente nenhuma "
 "reta de regressão, uma reta de regressão linear ou uma reta de regressão "
 "suavizada"
 
@@ -32,8 +32,8 @@ msgstr "`TRUE` ou `FALSE` (padrão), mostra o erro padrão da reta de regressão
 #: pareto/options/angle.description.R
 msgid "a number from 0 to 45 defining the angle of the x-axis labels,  where 0 degrees represents completely horizontal labels."
 msgstr ""
-"um número de 0 a 45 definindo o ângulo das categorias do eixo x, onde 0 "
-"graus representa categorias completamente horizontais."
+"Um número de 0 a 45 define o ângulo das categorias do eixo x, onde 0 graus "
+"representam categorias completamente horizontais."
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
@@ -46,31 +46,31 @@ msgstr "um gráfico de dispersão"
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
 msgstr ""
-"uma cadeia alfanumérica nomeando a variável de `data` que contém as "
-"contagens para os valores (opcional)"
+"uma cadeia alfanumérica nomeia a variável de `data` que contém as contagens "
+"para os valores (opcional)"
 
 #: pareto/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  values used for the chart"
 msgstr ""
-"uma cadeia alfanumérica nomeando a variável de `data` que contém os valores "
+"uma cadeia alfanumérica nomeia a variável de `data` que contém os valores "
 "usados no gráfico"
 
 #: scat/options/x.description.R
 msgid "a string naming the variable from `data` that contains the  x coordinates of the points in the plot, variable must be numeric"
 msgstr ""
-"uma cadeia alfanumérica nomeando a variável de `data` que contém as "
+"uma cadeia alfanumérica nomeia a variável de `data` que contém as "
 "coordenadas xx dos pontos no gráfico, a variável deve ser numérica"
 
 #: scat/options/y.description.R
 msgid "a string naming the variable from `data` that contains the  y coordinates of the points in the plot, variable must be numeric"
 msgstr ""
-"uma cadeia alfanumérica nomeando a variável de `data` que contém as "
-"coordenadas yy dos pontos no gráfico, a variável deve ser numérica"
+"uma cadeia alfanumérica nomeia a variável de `data` que contém as "
+"coordenadas y dos pontos no gráfico, a variável deve ser numérica"
 
 #: scat/options/group.description.R
 msgid "a string naming the variable from `data` that represents the  grouping variable"
 msgstr ""
-"uma cadeia alfanumérica nomeando a variável de `data` que representa a "
+"uma cadeia alfanumérica nomeia a variável de `data` que representa a "
 "variável de agrupamento"
 
 #: package.description
