@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-08-01 13:02+0000\n"
-"Last-Translator: Bernardo Gomes <bernardo.gomes@bebitterbebetter.com.br>\n"
+"PO-Revision-Date: 2025-08-07 17:01+0000\n"
+"Last-Translator: jpmaroco <jpmaroco@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/pt/>\n"
 "Language: pt\n"
@@ -141,7 +141,7 @@ msgstr "Marginais"
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr "Sem Correção"
+msgstr "Nenhum"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -154,7 +154,7 @@ msgstr "Gráfico de Pareto"
 #: scat/options/line.title
 #: scat/ui[1][0][0].label
 msgid "Regression Line"
-msgstr "Reta de Regressão"
+msgstr "Linha de Regressão"
 
 #: package.title
 #: package/analyses/scat.menuSubgroup
@@ -162,7 +162,7 @@ msgstr "Reta de Regressão"
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr "Dispersão"
+msgstr "dispersão"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -206,7 +206,7 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr "Alisar"
+msgstr "Suavizar"
 
 #: scat/options/se.title
 msgid "Standard error"
@@ -222,9 +222,9 @@ msgstr "os dados como um quadro de dados"
 #: scat/options/x.title
 #: scat/ui[0][0].label
 msgid "X-Axis"
-msgstr "Eixo-XX"
+msgstr "Eixo-X"
 
 #: scat/options/y.title
 #: scat/ui[0][1].label
 msgid "Y-Axis"
-msgstr "Eixo-YY"
+msgstr "Eixo-Y"
