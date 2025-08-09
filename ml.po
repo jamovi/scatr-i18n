@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-08-01 13:02+0000\n"
+"PO-Revision-Date: 2025-08-10 03:24+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/ml/>\n"
@@ -107,7 +107,7 @@ msgstr ""
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "Exploration"
+msgstr "കണ്ടെത്തൽ"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
