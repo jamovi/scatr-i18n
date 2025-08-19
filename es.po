@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-26 19:05+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"PO-Revision-Date: 2025-08-20 19:02+0000\n"
+"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/es/>\n"
 "Language: es\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 #: scat/options/marg.description.R
 msgid "`none` (default), `dens`, or `box`, provide respectively no plots, density plots, or box plots on the axes"
@@ -37,7 +37,7 @@ msgstr ""
 
 #: pareto/results/pareto.description
 msgid "a Pareto chart"
-msgstr "un diagrama de Pareto"
+msgstr "Gráfico de Pareto"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
@@ -140,7 +140,7 @@ msgstr "Marginales"
 #: scat/options/marg/none.title
 #: scat/options/line/none.title
 msgid "None"
-msgstr "Ninguna"
+msgstr "Ninguno"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -161,7 +161,7 @@ msgstr "Línea de Regresión"
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr "scatr"
+msgstr "scatr (dispersión)"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -203,7 +203,7 @@ msgstr "set.seed(1337)\n"
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr "Suavizada"
+msgstr "Suavizado"
 
 #: scat/options/se.title
 msgid "Standard error"
