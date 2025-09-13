@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-08 20:01+0000\n"
+"PO-Revision-Date: 2025-09-13 17:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "scatr-i18n/hr/>\n"
@@ -37,7 +37,7 @@ msgstr "Pareto dijagram"
 
 #: scat/results/scat.description
 msgid "a scatter plot"
-msgstr "grafikon raspršenja"
+msgstr "rasprešeni dijagram"
 
 #: pareto/options/counts.description.R
 msgid "a string naming the variable from `data` that contains the  counts for the values (optional)"
@@ -66,6 +66,9 @@ msgstr ""
 #: package.description
 msgid "Allows you to produce several types of explorative plots such as scatter plots and pareto charts. You can find it under the 'Exploration' menu."
 msgstr ""
+"Omogućuje izradu nekoliko vrsta istraživačkih dijagrama, kao što su "
+"rasprešeni dijagrami i Pareto dijagrami. Može se pronaći u izborniku "
+"„Istraživanje”."
 
 #: pareto/options/angle.title
 msgid "Angle of x-axis labels"
@@ -73,16 +76,16 @@ msgstr "Kut oznaka osi x"
 
 #: scat/options/marg/box.title
 msgid "Boxplots"
-msgstr ""
+msgstr "Box dijagrami"
 
 #: R/pareto.b.R
 msgid "Counts"
-msgstr ""
+msgstr "Broj"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "Broj (opcionalno)"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
@@ -90,24 +93,26 @@ msgstr "Kumulativni postotak"
 
 #: scat/options/marg/dens.title
 msgid "Densities"
-msgstr ""
+msgstr "Gustoće"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 #: scat/options.menuGroup
 msgid "Exploration"
-msgstr "Eksploracija"
+msgstr "Istraživanje"
 
 #: package/analyses/scat.description
 #: scat/options.description.main
 msgid "Function for making clean, good looking scatter plots with the option to add marginal denisty or box plots."
 msgstr ""
+"Funkcija za generiranje preglednih i estetski ugodnih raspršenih dijagrama, "
+"uz mogućnost dodavanja marginalne gustoće ili box dijagram."
 
 #: package/analyses/pareto.description
 #: pareto/options.description.main
 msgid "Function for making pareto charts."
-msgstr ""
+msgstr "Funkcija za izradu Pareto dijagrama."
 
 #: scat/options/group.title
 #: scat/ui[0][2].label
@@ -116,7 +121,7 @@ msgstr "Grupa"
 
 #: scat/options/line/linear.title
 msgid "Linear"
-msgstr ""
+msgstr "Linearno"
 
 #: scat/options/marg.title
 #: scat/ui[1][1][0].label
@@ -147,7 +152,7 @@ msgstr "Linija regresije"
 #: pareto/options.menuSubgroup
 #: scat/options.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "scatr"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -155,7 +160,7 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatterplot"
-msgstr "Dijagram raspršenja"
+msgstr "Raspršeni dijagram"
 
 #: scat/options.description.R.usage
 msgid "set.seed(1337)\n"
@@ -178,7 +183,7 @@ msgstr ""
 
 #: scat/options/line/smooth.title
 msgid "Smooth"
-msgstr "Zaglađena"
+msgstr "Zaglađeno"
 
 #: scat/options/se.title
 msgid "Standard error"
